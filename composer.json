@@ -1,0 +1,37 @@
+{
+    "name": "dalholm/laravel-themes",
+    "description": "Laravel Themes",
+    "keywords": ["themes", "laravel", "blade", "themeing"],
+    "homepage": "https://github.com/dalholm/laravel-themes",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mikael Dalholm",
+            "email": "mikael@dalholm.se"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.3|^8.0",
+        "illuminate/support": "^6.0|^7.0|^8.0"
+    },
+    "autoload": {
+        "files": [
+            "helpers/themes.php"
+        ],
+        "psr-4": {
+            "Dalholm\\Themes\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dalholm\\Themes\\ThemesServiceProvider"
+            ],
+            "aliases": {
+                "Theme": "Dalholm\\Themes\\Facades\\Theme"
+            }
+        }
+    }
+}

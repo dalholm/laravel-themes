@@ -1,0 +1,13 @@
+{
+    "name": "DummyPackageName",
+    "description": "DummyDescription",
+    "type": "dalholm-theme",
+    "autoload": {
+        "psr-4": {
+            "DummyEscapedNamespace\\": "src/"
+        }
+    },
+    "require": {
+        "dalholm/composer": "*"
+    }
+}
