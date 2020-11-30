@@ -16,7 +16,7 @@ php artisan vendor:publish --provider="Dalholm\Themes\ThemesServiceProvider" --t
 ```
 #### Create your first theme
 ```
-php artisan php artisan make:theme Default
+php artisan make:theme Default
 ```
 
 ## Changelog
