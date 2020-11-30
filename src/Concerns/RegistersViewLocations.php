@@ -52,7 +52,7 @@ trait RegistersViewLocations
     protected function addRegisteredLocation($theme, $parent)
     {
         if (! is_null($parent)) {
-            $parentLocation = $this->path('resources/views');
+            $parentLocation = $this->path('resources/views', $parent->get('slug'));
             app('view.finder')->prependLocation($parentLocation);
         }
 
