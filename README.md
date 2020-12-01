@@ -24,7 +24,7 @@ You will find a complete changelog history within the [CHANGELOG](CHANGELOG.md) 
 
 
 ## Security
-If you discover any security related issues, please email mikael@dalholm directly instead of using the issue tracker.
+If you discover any security related issues, please email mikael@dalholm.se directly instead of using the issue tracker.
 
 ## Credits
 - [Caffeinated](https://github.com/caffeinated)
