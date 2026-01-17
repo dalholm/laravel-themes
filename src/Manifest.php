@@ -1,6 +1,6 @@
 <?php
 
-namespace Dalholm\Themes;
+namespace Nyehandel\Themes;
 
 use Exception;
 use Illuminate\Support\Collection;

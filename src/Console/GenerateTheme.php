@@ -1,6 +1,6 @@
 <?php
 
-namespace Dalholm\Themes\Console;
+namespace Nyehandel\Themes\Console;
 
 use Illuminate\Support\Facades\File;
 use Illuminate\Console\Command;

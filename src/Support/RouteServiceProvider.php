@@ -1,8 +1,8 @@
 <?php
 
-namespace Dalholm\Themes\Support;
+namespace Nyehandel\Themes\Support;
 
-use Dalholm\Themes\Concerns\GetsManifest;
+use Nyehandel\Themes\Concerns\GetsManifest;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as LaravelRouteServiceProvider;
 
 class RouteServiceProvider extends LaravelRouteServiceProvider

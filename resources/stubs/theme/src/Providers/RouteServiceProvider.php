@@ -3,7 +3,7 @@
 namespace DummyNamespace\Providers;
 
 use Illuminate\Support\Facades\Route;
-use Dalholm\Themes\Support\RouteServiceProvider as ServiceProvider;
+use Nyehandel\Themes\Support\RouteServiceProvider as ServiceProvider;
 
 class RouteServiceProvider extends ServiceProvider
 {

@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://github.com/dalholm/themes">GitHub</a>
+                    <a href="https://github.com/nyehandelab/laravel-themes">GitHub</a>
                 </div>
             </div>
         </div>

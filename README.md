@@ -7,12 +7,12 @@ This Laravel themes package makes your theming more fun and complete. You will h
 Simply install the package through Composer. From here the package will automatically register its service provider and `Theme` facade.
 
 ```
-composer require dalholm/laravel-theme
+composer require nyehandel/laravel-theme
 ```
 
 #### Publish config
 ```
-php artisan vendor:publish --provider="Dalholm\Themes\ThemesServiceProvider" --tag="laravel-themes-config"
+php artisan vendor:publish --provider="Nyehandel\Themes\ThemesServiceProvider" --tag="laravel-themes-config"
 ```
 #### Create your first theme
 ```
@@ -24,7 +24,7 @@ You will find a complete changelog history within the [CHANGELOG](CHANGELOG.md) 
 
 
 ## Security
-If you discover any security related issues, please email mikael@dalholm.se directly instead of using the issue tracker.
+If you discover any security related issues, please email support@nyehandel.se directly instead of using the issue tracker.
 
 ## Credits
 - [Caffeinated](https://github.com/caffeinated)

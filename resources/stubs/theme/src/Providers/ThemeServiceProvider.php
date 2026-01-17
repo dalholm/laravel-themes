@@ -2,7 +2,7 @@
 
 namespace DummyNamespace\Providers;
 
-use Dalholm\Themes\Support\ServiceProvider;
+use Nyehandel\Themes\Support\ServiceProvider;
 
 class ThemeServiceProvider extends ServiceProvider
 {

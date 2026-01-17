@@ -1,5 +1,5 @@
 <?php
-namespace Dalholm\Themes\Facades;
+namespace Nyehandel\Themes\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

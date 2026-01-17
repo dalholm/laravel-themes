@@ -1,9 +1,9 @@
 <?php
 
-namespace Dalholm\Themes\Support;
+namespace Nyehandel\Themes\Support;
 
-use Dalholm\Themes\Facades\Theme;
-use Dalholm\Themes\Concerns\GetsManifest;
+use Nyehandel\Themes\Facades\Theme;
+use Nyehandel\Themes\Concerns\GetsManifest;
 use Illuminate\Support\ServiceProvider as IlluminateServiceProvider;
 
 class ServiceProvider extends IlluminateServiceProvider

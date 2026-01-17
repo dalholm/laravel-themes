@@ -1,13 +1,13 @@
 {
     "name": "DummyPackageName",
     "description": "DummyDescription",
-    "type": "dalholm-theme",
+    "type": "nyehandel-theme",
     "autoload": {
         "psr-4": {
             "DummyEscapedNamespace\\": "src/"
         }
     },
     "require": {
-        "dalholm/composer": "*"
+        "nyehandel/composer": "*"
     }
 }

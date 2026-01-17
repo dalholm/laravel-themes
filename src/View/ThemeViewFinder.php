@@ -1,9 +1,9 @@
 <?php
 
-namespace Dalholm\Themes\View;
+namespace Nyehandel\Themes\View;
 
 use Illuminate\View\FileViewFinder;
-use Dalholm\Themes\Facades\Theme;
+use Nyehandel\Themes\Facades\Theme;
 
 class ThemeViewFinder extends FileViewFinder
 {

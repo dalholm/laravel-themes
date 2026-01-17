@@ -1,6 +1,6 @@
 <?php
 
-namespace Dalholm\Themes\Concerns;
+namespace Nyehandel\Themes\Concerns;
 
 use Illuminate\Support\Facades\File;
 use ReflectionClass;

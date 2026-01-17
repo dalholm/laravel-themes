@@ -1,12 +1,12 @@
 <?php
 
-namespace Dalholm\Themes;
+namespace Nyehandel\Themes;
 
 use View;
-use Dalholm\Themes\Manifest;
+use Nyehandel\Themes\Manifest;
 use Illuminate\Support\ServiceProvider;
-use Dalholm\Themes\View\ThemeViewFinder;
-use Dalholm\Themes\Console\GenerateTheme;
+use Nyehandel\Themes\View\ThemeViewFinder;
+use Nyehandel\Themes\Console\GenerateTheme;
 
 class ThemesServiceProvider extends ServiceProvider
 {

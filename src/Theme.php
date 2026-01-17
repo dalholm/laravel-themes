@@ -1,10 +1,10 @@
 <?php
 
-namespace Dalholm\Themes;
+namespace Nyehandel\Themes;
 
 use Illuminate\Support\Str;
 use Illuminate\Support\Collection;
-use Dalholm\Themes\Concerns\RegistersViewLocations;
+use Nyehandel\Themes\Concerns\RegistersViewLocations;
 
 class Theme extends Collection
 {
